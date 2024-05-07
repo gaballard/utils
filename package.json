@@ -1,0 +1,8 @@
+{
+  "name": "@geoffware/utils",
+  "version": "1.0.0",
+  "description": "A collection of simple utility functions",
+  "main": "index.js",
+  "author": "Geoffrey Ballard",
+  "license": "MIT"
+}
